@@ -1,0 +1,14 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(óÅÁÑ
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(‹š÷
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(îŽÏ€þÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ûÂ¨§þÿÿÿÿ
+Z
+java:S2147;"DCombine this catch with the one at line 57, which has the same body.(ï­£Ä
+C
+java:S10756"&Remove this hard-coded path-delimiter.(¢åñÂ8£Â± Œ2
+=
+java:S1068"(Remove this unused "size" private field.(‰öÆ)

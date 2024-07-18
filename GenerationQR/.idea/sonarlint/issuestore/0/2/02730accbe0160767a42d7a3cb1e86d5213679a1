@@ -1,0 +1,8 @@
+
+h
+java:S1192 "FDefine a constant instead of duplicating this literal "Arial" 4 times.(ÎèÐ¡øÿÿÿÿ8±ê² Œ2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”±ôÙ8å§ Œ2
+>
+java:S1170"!Make this final field static too.(›ô¡¨8±å§ Œ2
+£
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹÷·šøÿÿÿÿ8²å§ Œ2
